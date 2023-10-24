@@ -1,0 +1,10 @@
+C:\Users\edilson.csilva10\source\repos\Programar\Helo_World2\Helo_World2\bin\Debug\Helo_World2.exe.config
+C:\Users\edilson.csilva10\source\repos\Programar\Helo_World2\Helo_World2\bin\Debug\Helo_World2.exe
+C:\Users\edilson.csilva10\source\repos\Programar\Helo_World2\Helo_World2\bin\Debug\Helo_World2.pdb
+C:\Users\edilson.csilva10\source\repos\Programar\Helo_World2\Helo_World2\obj\Debug\Helo_World2.csproj.AssemblyReference.cache
+C:\Users\edilson.csilva10\source\repos\Programar\Helo_World2\Helo_World2\obj\Debug\Helo_World2.Form1.resources
+C:\Users\edilson.csilva10\source\repos\Programar\Helo_World2\Helo_World2\obj\Debug\Helo_World2.Properties.Resources.resources
+C:\Users\edilson.csilva10\source\repos\Programar\Helo_World2\Helo_World2\obj\Debug\Helo_World2.csproj.GenerateResource.cache
+C:\Users\edilson.csilva10\source\repos\Programar\Helo_World2\Helo_World2\obj\Debug\Helo_World2.csproj.CoreCompileInputs.cache
+C:\Users\edilson.csilva10\source\repos\Programar\Helo_World2\Helo_World2\obj\Debug\Helo_World2.exe
+C:\Users\edilson.csilva10\source\repos\Programar\Helo_World2\Helo_World2\obj\Debug\Helo_World2.pdb
